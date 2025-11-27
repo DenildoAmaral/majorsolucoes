@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Major Soluções | Manutenção de Máquinas Industriais</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="container header__wrap">
+      <a class="logo" href="#home">
+        <span class="logo__mark">M</span>
+        <div class="logo__text">
+          <strong>Major Soluções</strong>
+          <small>Manutenção Industrial</small>
+        </div>
+      </a>
+      <nav class="nav">
+        <a href="#servicos">Serviços</a>
+        <a href="#clientes">Clientes</a>
+        <a href="#sobre">Sobre</a>
+        <a href="#contato" class="btn btn--primary">Contato</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section id="home" class="hero">
+    <div class="container hero__wrap">
+      <div class="hero__content">
+        <h1>Manutenção de máquinas industriais com alto desempenho e segurança</h1>
+        <p>Especialistas em solder wave, torno CNC, esteiras transportadoras, injetoras, extrusoras e painéis elétricos.</p>
+        <a href="#contato" class="btn btn--primary">Solicitar orçamento</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Serviços -->
+  <section id="servicos" class="section">
